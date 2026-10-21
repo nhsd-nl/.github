@@ -1,7 +1,7 @@
 <a href="https://nhsd.nl">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img alt="nhsd · Niels Heisterkamp. A senior developer you can hand the hard part to. Open for new work from Q4 2026." src="assets/hero-light.svg" width="100%">
+    <img alt="nhsd · Niels Heisterkamp. A senior developer you can hand the hard part to. Open for new work from Q1 2027." src="assets/hero-light.svg" width="100%">
   </picture>
 </a>
 

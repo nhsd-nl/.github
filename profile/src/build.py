@@ -159,7 +159,7 @@ def hero(dark):
     s.text(1152, 47, "SOFTWARE DEVELOPMENT B.V.", "mono", 11, muted, 0.18, "end")
     s.add(f'<line x1="0" y1="84" x2="{W}" y2="84" stroke="{line}"/>')
 
-    label = "OPEN FOR NEW WORK FROM Q4 2026"
+    label = "OPEN FOR NEW WORK FROM Q1 2027"
     pw = 64 + mono_width(label, 12, 0.12)
     s.add(f'<rect x="48" y="122" width="{pw:.0f}" height="36" rx="18" fill="{pill}" stroke="{line}"/>')
     s.add(f'<circle class="pulse" cx="76" cy="140" r="5" fill="{AMBER}"/>')
@@ -174,7 +174,7 @@ def hero(dark):
     s.text(48, 418, "wants to own and you get it back working and documented.", "body", 20, body)
 
     s.add(f'<line x1="48" y1="456" x2="1152" y2="456" stroke="{line}"/>')
-    meta = [("STATUS", "Open from Q4 2026"), ("BASIS", "Freelance"), ("REMOTE", "NL / EU"), ("LANGUAGES", "Dutch, English")]
+    meta = [("STATUS", "Open from Q1 2027"), ("BASIS", "Freelance"), ("REMOTE", "NL / EU"), ("LANGUAGES", "Dutch, English")]
     for i, (k, v) in enumerate(meta):
         x = 48 + i * 276
         s.text(x, 488, k, "mono", 11, muted, 0.18)
